@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+    <baseColor>FF69B4</baseColor> <!-- Hot pink -->
+    <gradientEndColor>FF1493</gradientEndColor> <!-- Hot pink -->
+    <centerFadeColor>FF69B450</centerFadeColor> <!-- Hot pink with opacity -->
+    <backgroundColor>081622</backgroundColor> <!-- No change to background -->
+    <bottomBarColor>FF1493B9</bottomBarColor> <!-- Hot pink with transparency -->
+    <glowColor>FF69B424</glowColor> <!-- Hot pink glow -->
+    <systemInfoColor>FAFAFFB0</systemInfoColor> <!-- No change to system info color -->
+    <backgroundImage>./art/fiber.png</backgroundImage> <!-- No change to background image -->
+
+    <groupColor>FF69B4</groupColor> <!-- Hot pink -->
+    <groupSeparatorColor>FF1493</groupSeparatorColor> <!-- Hot pink -->
+  </variables>
+</theme>
